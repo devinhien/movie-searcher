@@ -1,0 +1,35 @@
+# Compiled object files
+movie-loader
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# IDE/project specific files
+.vscode/
+*.code-workspace
+*.vcxproj*
+*.sln
+*.user
+*.filters
+
+# MacOS files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
